@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+/* Mine */
+
+/* Fonts */
+@font-face {
+  font-family: "NunitoSansReguler";
+  src: url(./assets/fonts/NunitoSans_10pt-Regular.ttf);
+}
+
+@font-face {
+  font-family: "NunitoSansMedium";
+  src: url(./assets/fonts/NunitoSans_10pt-Medium.ttf);
+}
+
+@font-face {
+  font-family: "NunitoSansBold";
+  src: url(./assets/fonts/NunitoSans_10pt-Bold.ttf);
+}
+
+.NunitoSansReguler{
+  font-family: "NunitoSansReguler";
+}
+
+.NunitoSansMedium{
+  font-family: "NunitoSansMedium";
+}
+
+.NunitoSansBold{
+  font-family: "NunitoSansBold";
+} 
