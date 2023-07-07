@@ -1,0 +1,15 @@
+.iconSizeStyle {
+    max-width: 1.2rem;
+    max-height: 1.2rem;
+  }
+
+
+  .centerObject{
+    display: flex; align-items: center; justify-content: center;
+  }
+
+  .centerObject:hover {
+    fill: #01959F;
+    color: #01959F;
+    stroke: #01959F;
+  }
